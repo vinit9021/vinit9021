@@ -170,13 +170,13 @@ An agentic platform designed to help developers navigate the **job search and in
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vinit9021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit9021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=vinit9021&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=vinit9021&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -186,7 +186,7 @@ An agentic platform designed to help developers navigate the **job search and in
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinit9021&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7">
+<img src="./profile/trophy.svg" alt="GitHub Trophies">
 
 </div>
 
